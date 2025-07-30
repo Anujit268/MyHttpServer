@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3addd22a-77ad-4c0b-8832-124f11fd41bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Request.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myfullstackprojects/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myfullstackprojects/http/HttpMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myfullstackprojects/http/HttpMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myfullstackprojects/http/HttpParsingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myfullstackprojects/http/HttpRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myfullstackprojects/http/HttpStatusCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myfullstackprojects/http/Httpparser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myfullstackprojects/httpserver/HttpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myfullstackprojects/httpserver/config/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myfullstackprojects/httpserver/config/ConfigurationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myfullstackprojects/httpserver/config/HttpConfigurationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myfullstackprojects/httpserver/core/HttpConnectionWorkerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myfullstackprojects/httpserver/core/ServerListenerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myfullstackprojects/httpserver/util/Json.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/http.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfullstackprojects/http/HttpparserTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="30OQw2Y0EFHcEmHqSXqsEVsawlO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HttpServer.executor": "Run",
+    "JUnit.HttpparserTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/jenaa/JAVA_Fold/Projects/HttpServer/serverfromscratch/src/main/java/com/myfullstackprojects/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.myfullstackprojects.http" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HttpparserTest">
+    <configuration name="HttpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myfullstackprojects.httpserver.HttpServer" />
+      <module name="serverfromscratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myfullstackprojects.httpserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpparserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="serverfromscratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myfullstackprojects.http.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myfullstackprojects.http" />
+      <option name="MAIN_CLASS_NAME" value="com.myfullstackprojects.http.HttpparserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HttpparserTest" />
+        <item itemvalue="Application.HttpServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3addd22a-77ad-4c0b-8832-124f11fd41bc" name="Changes" comment="" />
+      <created>1753496373819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753496373819</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/myfullstackprojects/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
