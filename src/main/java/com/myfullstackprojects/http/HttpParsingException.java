@@ -1,10 +1,12 @@
 package com.myfullstackprojects.http;
 
-public class HttpParsingException extends Exception{
+public class HttpParsingException extends Exception {
+
     private final HttpStatusCode errorCode;
-    public HttpParsingException(HttpStatusCode errorCode){
+
+    public HttpParsingException(HttpStatusCode errorCode) {
         super(errorCode.MESSAGE);
-        this.errorCode=errorCode;
+        this.errorCode = errorCode;
     }
 
     public HttpStatusCode getErrorCode() {

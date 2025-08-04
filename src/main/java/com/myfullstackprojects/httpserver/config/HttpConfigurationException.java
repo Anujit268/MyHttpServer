@@ -1,6 +1,7 @@
 package com.myfullstackprojects.httpserver.config;
 
-public class HttpConfigurationException extends RuntimeException{
+public class HttpConfigurationException extends RuntimeException {
+
     public HttpConfigurationException() {
     }
 

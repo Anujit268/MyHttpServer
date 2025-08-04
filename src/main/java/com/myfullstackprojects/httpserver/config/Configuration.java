@@ -1,6 +1,7 @@
 package com.myfullstackprojects.httpserver.config;
 
 public class Configuration {
+
     private int port;
     private String webroot;
 
